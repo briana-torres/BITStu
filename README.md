@@ -22,6 +22,14 @@ We call this **Human Hospitality** — the principle that no matter how autonomo
 
 AI should make people feel seen, not processed.
 
+## How We Build It Human 
+
+Human Hospitality isn't a feature, it's a constraint we build to from the start. Every agent we ship is designed to know when to pause, when to hand off, and how to make the person on the other side feel heard. Tone-aware. Context-aware. Never a dead end. 
+
+Every interaction has a human-feeling exit, and no user ever starts over. We run every agent through a Human Hospitality review before it ships; not just "does it work," but "does it feel like someone cares." 
+
+The technology is autonomous. The experience is personal. That's the line we hold.
+
 ## What We Build
 
 - **Custom AI Agents** — Autonomous systems built to your exact specifications, from prototype to production.
@@ -40,10 +48,10 @@ BITStu is the parent company. Underneath it, two independent products are in dev
 ## The Team
 
 **Briana Isabella Torres** — Co-Founder & CEO  
-CS & Design @ Northeastern · Former SWE Intern @ Apple · AI systems for MA state government · RAG pipelines & agentic architecture  
+CS & Design @ Northeastern · Former SWE Intern @ Apple · Architected AI systems for MA state government · RAG pipelines, agentic design & the vision behind BITStu
 
 **Heather Carminati** — Co-Founder & CTO  
-MS CS @ Northeastern · Frontend Engineering · Full-stack product development  
+MS CS @ Northeastern (4.0) · Technical Leadership · Full-stack architecture & product engineering across gov, enterprise & consumer · Building the systems that scale BITStu's ecosystem
 
 ## Tech Stack
 
@@ -64,9 +72,9 @@ We're in our **pre-seed stage** and actively looking for:
 
 ## Contact
 
-- **Email:** [talk to Bri](mailto:briana@torres.us)
-- **LinkedIn:** [BITStu](https://www.linkedin.com/in/briana-isabella/)
-- **X/Twitter:** [@Orchard](https://x.com/orchardtui) / [@BRI](https://x.com/bebetanktop)
+- **Email:** [talk to Bri](mailto:briana@torres.us) | [talk to Heather](mailto:hscarminati@hotmail.com)
+- **LinkedIn:** [BRI.ai](https://www.linkedin.com/in/briana-isabella/) | [HEAT.ai](https://www.linkedin.com/in/heather-carminati/)
+- **X/Twitter:** [@BRI](https://x.com/bebetanktop) | [@HEAT](https://x.com/cvrminati)
 
 ## License
 
