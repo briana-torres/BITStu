@@ -1,4 +1,4 @@
-# BITStu
+# BITStu.ai
 
 **Agentic AI, built to spec.**
 
