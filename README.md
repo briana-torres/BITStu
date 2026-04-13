@@ -28,19 +28,10 @@ AI should make people feel seen, not processed.
 - **Agentic Workflows** — Multi-step, multi-tool agent pipelines that handle real work end-to-end.
 - **AI Integration** — Seamlessly embed intelligent agents into your existing products and infrastructure.
 
-## The Ecosystem
-
-BITStu is the parent company. Underneath it, two independent products are in development:
-
-| Product | Founder | Description |
-|---------|---------|-------------|
-| **[BRI.ai](https://bri.ai)** | Briana Isabella Torres | Coming soon. |
-| **[HEAT.ai](https://heat.ai)** | Heather Carminati | Coming soon. |
-
 ## The Team
 
 **Briana Isabella Torres** — Co-Founder & CEO  
-CS & Design @ Northeastern · Former SWE Intern @ Apple · AI systems for MA state government · RAG pipelines & agentic architecture  
+CS & Design @ Northeastern · Former SWE Intern @ Apple · Built and Deployed the First AI systems for MA state government · RAG pipelines & agentic architecture  
 
 **Heather Carminati** — Co-Founder & CTO  
 MS CS @ Northeastern · Frontend Engineering · Full-stack product development  
