@@ -30,11 +30,8 @@ AI should make people feel seen, not processed.
 
 ## The Team
 
-**Briana Isabella Torres** — Co-Founder & CEO  
-CS & Design @ Northeastern · Former SWE Intern @ Apple · Built and Deployed the First AI systems for MA state government · RAG pipelines & agentic architecture  
-
-**Heather Carminati** — Co-Founder & CTO  
-MS CS @ Northeastern · Frontend Engineering · Full-stack product development  
+**Briana Isabella Torres** — Founder & CEO  
+CS & Design @ Northeastern · Former SWE Intern @ Apple · Built and Deployed the First AI systems for MA state government · RAG pipelines & agentic architecture    
 
 ## Tech Stack
 
