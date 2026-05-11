@@ -1,0 +1,61 @@
+# BITStu.ai V2 Roadmap
+
+## Vision
+BIT is an AI-native CRM and operations platform. Clients build Playbooks — 
+DAG-structured workflows — that BIT executes using a multi-agent system 
+grounded in a scoped Knowledge Base. Every action produces artifacts.
+
+---
+
+## Sprint 1 — Foundation (Week 1–2)
+**Goal: Client + Admin dashboards live, auth, KB ingestion working**
+
+### Dashboard (P0)
+- [ ] Admin view: Playbook list, agent status, artifact log, flag controls
+- [ ] Client view: Playbook creation UI, task DAG builder, artifact downloads
+- [ ] Auth: role-based access (admin vs client vs BITStu-internal)
+
+### Knowledge Base (P0)
+- [ ] Ingest pipeline: raw data → structured KB entries
+- [ ] Scope tagging: Public / External / Internal / Drafts
+- [ ] KB read API for BIT to query
+
+### Feature Flags (P0)
+- [ ] Testing flag
+- [ ] Prod flag
+- [ ] Lead flag
+- [ ] Flag management UI in admin dashboard
+
+---
+
+## Sprint 2 — Playbook Engine (Week 3–4)
+**Goal: Clients can build and run Playbooks end-to-end**
+
+- [ ] DAG task builder (sequential + branching tasks)
+- [ ] Task executor with skill routing
+- [ ] Skill registry (Skill #1…n pluggable)
+- [ ] Effort levels per agent: Hard / Med / Easy
+- [ ] Playbook completion → artifact generation
+- [ ] Artifact storage + download
+
+---
+
+## Sprint 3 — Multi-Agent + Scale (Week 5–6)
+**Goal: Parallel agents, agent monitoring, client onboarding**
+
+- [ ] Agent pool: spawn Agent #1…n per playbook
+- [ ] Agent status dashboard (live)
+- [ ] Human documentation upload → KB ingestion flow
+- [ ] Client self-onboarding
+- [ ] Billing/plan gating on playbook runs
+
+---
+
+## Sprint 4 — Revenue + GTM (Week 7–8)
+**Goal: First paid clients, VC-ready demo**
+
+- [ ] Pricing tiers (SMB / Mid-market / Enterprise)
+- [ ] Usage analytics dashboard
+- [ ] Demo environment with preloaded playbooks
+- [ ] Security audit + SOC2 prep
+- [ ] Public-facing landing page + waitlist
